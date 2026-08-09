@@ -85,7 +85,7 @@ systems-core/
 ├── collectors/
 ├── monitor/
 ├── models/
-├── tests/
+├── tools/
 ├── main.py
 ├── requirements.txt
 └── README.md
