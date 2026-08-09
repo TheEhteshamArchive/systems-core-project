@@ -94,7 +94,7 @@ systems-core/
 
 Clone the repository and install the dependencies:
 ```bash
-git clone REPO_URL
+git clone https://github.com/TheEhteshamArchive/systems-core-project
 cd systems-core
 
 python -m venv venv
