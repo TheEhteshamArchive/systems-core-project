@@ -79,7 +79,7 @@ I wanted to explore the intersection of Linux system programming, hardware monit
 Rather than building a simple chatbot, I wanted to create an AI system that can interact with and understand the environment in which it is running.
 
 ## Project Structure
-
+```text
 systems-core/
 ├── ai/
 ├── collectors/
@@ -89,7 +89,7 @@ systems-core/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Running
 
 Clone the repository and install the dependencies:
