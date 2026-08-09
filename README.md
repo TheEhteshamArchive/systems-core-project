@@ -95,7 +95,7 @@ systems-core/
 Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/TheEhteshamArchive/systems-core-project
-cd systems-core
+cd systems-core-project
 
 python -m venv venv
 source venv/bin/activate.fish
